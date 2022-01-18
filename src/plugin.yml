@@ -1,0 +1,10 @@
+name: SHIWManager
+description: Simple SHIWSMP Manager
+main: com.papajittan.shiwmanager.Main
+version: 1.0.0
+api-version: 1.18
+author: Papajittan, ChickuMike, TeaZKung_TH, ComradeFishy, That Dumb Guy, GTLGGames
+commands:
+  classcheck:
+    description: This command use to check player's class!
+    usage: /classcheck <player name>
